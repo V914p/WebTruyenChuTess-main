@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project Test\\WebTruyenChuTess-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\controllers\\chuongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\controllers\\chuongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\models\\entitydbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\models\\entitydbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\models\\storycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\models\\storycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\infocardstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\infocardstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\follow_p.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\follow_p.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|e:\\project test\\webtruyenchutess-main\\webtruyenchu_210baned\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D2BA8F-5016-4911-AE3B-6E80D6494832}|WebTruyenChu_210BANED\\WebTruyenChu_210BANED.csproj|solutionrelative:webtruyenchu_210baned\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChuongsController.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\ChuongsController.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Controllers\\ChuongsController.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\ChuongsController.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Controllers\\ChuongsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:36:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Program.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Program.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Program.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:51:16.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\appsettings.json",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\appsettings.json",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T07:08:59.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBcontext.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\DBcontext.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Models\\DBcontext.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\DBcontext.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Models\\DBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:50:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:06:10.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwIUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T02:01:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAiwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T05:20:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoryCard.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\StoryCard.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Models\\StoryCard.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\StoryCard.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Models\\StoryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:42:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:10:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "entityDBModel.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\entityDBModel.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Models\\entityDBModel.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\entityDBModel.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Models\\entityDBModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:00:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:55:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T06:56:19.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfoCardStory.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\InfoCardStory.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\InfoCardStory.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\InfoCardStory.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\InfoCardStory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T12:02:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\SearchResults.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\SearchResults.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\SearchResults.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T13:45:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userModel.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\userModel.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Models\\userModel.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Models\\userModel.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Models\\userModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:37:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:39:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T03:30:55.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "follow_p.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\follow_p.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\follow_p.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\follow_p.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\follow_p.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:00:01.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T06:13:43.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Details.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Details.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T03:49:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "category.cshtml",
+              "DocumentMoniker": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\category.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenChu_210BANED\\Views\\Home\\category.cshtml",
+              "ToolTip": "E:\\Project Test\\WebTruyenChuTess-main\\WebTruyenChu_210BANED\\Views\\Home\\category.cshtml",
+              "RelativeToolTip": "WebTruyenChu_210BANED\\Views\\Home\\category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:53:03.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
